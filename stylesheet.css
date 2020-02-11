@@ -2,6 +2,9 @@ img{
     width: 100%
 }
 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
 .column {
     width: 600px;
     margin: 0px auto;
@@ -14,7 +17,6 @@ img{
 h1{
     font-size: large;
     text-align: center;
-    font-family: 'Lucida Sans';
 }
 
 h3{
@@ -24,6 +26,5 @@ h3{
 
 p{
     font-style: normal;
-    font-family: Georgia;
 }
 
