@@ -7,18 +7,18 @@ img{
     margin: 0px auto;
     background-color: white;
     padding: 1px 40px 40px 40px;
-    border-left: solid 25px #ff8a8a;
-    border-right: solid 25px #ff8a8a;
+    border-left: solid 25px #002c8b;
+    border-right: solid 25px #fffb13;
+    background-color: rgb(96, 248, 96);
 }
 
 h1{
-    font-size: large;
+    
     text-align: center;
-    font-family: 'Lucida Sans';
+    font-family: Georgia;
 }
 
-h3{
-    font-style: italic;
+h4{
     text-align: center;
 }
 
@@ -26,4 +26,5 @@ p{
     font-style: normal;
     font-family: Georgia;
 }
+
 
