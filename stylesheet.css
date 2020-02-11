@@ -2,3 +2,15 @@ img{
     width: 100%
 }
 
+h1{
+    font-size: large;
+    font-style: italic;
+    text-align: center;
+    font-family: 'Lucida Sans';
+}
+
+p{
+    font-style: normal;
+    font-family: Georgia;
+}
+
