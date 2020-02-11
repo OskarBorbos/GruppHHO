@@ -27,4 +27,8 @@ p{
     font-family: Georgia;
 }
 
+body{
+    background-image: url("bg-image.jpg");
+}
+
 
